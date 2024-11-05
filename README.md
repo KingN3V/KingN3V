@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm a Software Engineer</h1>
 <h3 align="center">A passionate computer scientist crafting solutions with code and innovation</h3>
 
 - 🔭 I’m currently working on [Smart Home Automation tool](nev.com)
